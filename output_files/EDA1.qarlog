@@ -1,0 +1,32 @@
+Quartus II Archive log --	F:/Quartus II/EDA1/output_files/EDA1.qarlog
+
+Archive:	F:/Quartus II/EDA1/output_files/EDA1.qar
+Date:		Sat Dec 02 09:25:08 2017
+Quartus II 64-Bit		13.0.0 Build 156 04/24/2013 SJ Full Version
+
+	=========== Files Selected: ===========
+F:/Quartus II/EDA1/CAL1.bdf
+F:/Quartus II/EDA1/CAL2.bdf
+F:/Quartus II/EDA1/COUNT.bdf
+F:/Quartus II/EDA1/DISPLAY.bdf
+F:/Quartus II/EDA1/EDA1.bdf
+F:/Quartus II/EDA1/EDA1.qpf
+F:/Quartus II/EDA1/EDA1.qsf
+F:/Quartus II/EDA1/FINAL.bdf
+F:/Quartus II/EDA1/FINAL2.bdf
+F:/Quartus II/EDA1/LIGHT.bdf
+F:/Quartus II/EDA1/TRANS.bdf
+F:/Quartus II/EDA1/Waveform.vwf
+F:/Quartus II/EDA1/Waveform2.vwf
+F:/Quartus II/EDA1/Waveform3.vwf
+F:/Quartus II/EDA1/Waveform4.vwf
+F:/Quartus II/EDA1/Waveform5.vwf
+F:/Quartus II/EDA1/Waveform6.vwf
+F:/Quartus II/EDA1/Waveform7.vwf
+F:/Quartus II/EDA1/db/EDA1.sim.vwf
+F:/Quartus II/EDA1/incremental_db/compiled_partitions/EDA1.db_info
+e:/altera/13.0/quartus/bin64/assignment_defaults.qdf
+	======= Total: 21 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

@@ -1,0 +1,165 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\Quartus II\EDA1\simulation\qsim
+vFINAL
+Z1 !s100 kFEQ`ROCFYagZ:jNSfNJ?0
+Z2 IIH]IY0ZBjo:zQJjGK`aUN1
+Z3 Vd=4jk=MM9?RiQ1iiE=i^80
+Z4 dF:\Quartus II\EDA1\simulation\qsim
+Z5 w1511853820
+Z6 8EDA1.vo
+Z7 FEDA1.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|EDA1.vo|
+Z10 o-work work -O0
+Z11 n@f@i@n@a@l
+!i10b 1
+!s85 0
+Z12 !s108 1511853825.541000
+Z13 !s107 EDA1.vo|
+!s101 -O0
+vFINAL2
+Z14 I3B7MZeQ`BL^mITzJeebXW0
+Z15 VGz]K;B:48`UgX;^FJa2F]2
+R4
+Z16 w1511851831
+R6
+R7
+L0 31
+R8
+r1
+31
+R9
+R10
+Z17 n@f@i@n@a@l2
+Z18 !s100 D91G?aOKzSMnnCZi<E87B2
+Z19 !s108 1511851836.425000
+R13
+!i10b 1
+!s85 0
+!s101 -O0
+vFINAL2_vlg_check_tst
+Z20 Id3P7l_DiiV=V3[lEE^WGF0
+Z21 VC<hR@KV1aAfmM1e7YM8T_1
+R4
+Z22 w1511851830
+Z23 8EDA1.vt
+Z24 FEDA1.vt
+L0 71
+R8
+r1
+31
+Z25 !s108 1511851837.597000
+Z26 !s107 EDA1.vt|
+Z27 !s90 -work|work|EDA1.vt|
+R10
+Z28 n@f@i@n@a@l2_vlg_check_tst
+Z29 !s100 8G9nlRo9S]F`]@hIOOKlI3
+!i10b 1
+!s85 0
+!s101 -O0
+vFINAL2_vlg_sample_tst
+Z30 IPE87VS3o<@3F@5PeLkVDC1
+Z31 VIg2mYfDm^gM91SaRfSdPI3
+R4
+R22
+R23
+R24
+L0 29
+R8
+r1
+31
+R25
+R26
+R27
+R10
+Z32 n@f@i@n@a@l2_vlg_sample_tst
+Z33 !s100 6UP7U6gSjC3e^PZZk2;n?1
+!i10b 1
+!s85 0
+!s101 -O0
+vFINAL2_vlg_vec_tst
+Z34 I2<fCjkE<3zb^^h4[gP9Gg0
+Z35 VD@2<bK33DjHmJ7OAkbmga3
+R4
+R22
+R23
+R24
+Z36 L0 448
+R8
+r1
+31
+R25
+R26
+R27
+R10
+Z37 n@f@i@n@a@l2_vlg_vec_tst
+Z38 !s100 ^5gS?ggVeikJaR3[_XFQ81
+!i10b 1
+!s85 0
+!s101 -O0
+vFINAL_vlg_check_tst
+!i10b 1
+Z39 !s100 Kb4NXgRKccE7a_Xkfa8G61
+Z40 IlakFmml4kaGH;GcPdDF?h0
+Z41 V@65eg6SMiD=?8DWg5H;i93
+R4
+Z42 w1511853819
+R23
+R24
+L0 69
+R8
+r1
+!s85 0
+31
+Z43 !s108 1511853825.666000
+Z44 !s107 EDA1.vt|
+R27
+!s101 -O0
+R10
+Z45 n@f@i@n@a@l_vlg_check_tst
+vFINAL_vlg_sample_tst
+!i10b 1
+Z46 !s100 _NeI6bnIU6LH4hN`R>BB70
+Z47 I]L@WNN8TV73ZiFF?mkIFm3
+Z48 VJ6CDE7JOjbPQAe[KL@kf_3
+R4
+R42
+R23
+R24
+L0 29
+R8
+r1
+!s85 0
+31
+R43
+R44
+R27
+!s101 -O0
+R10
+Z49 n@f@i@n@a@l_vlg_sample_tst
+vFINAL_vlg_vec_tst
+!i10b 1
+Z50 !s100 dbXV6@`FGHEU`ENZLYRZL1
+Z51 IFLTYP0DziZ;?MB[NQXB>22
+Z52 VEeNQYc@nObF_@LY:HU1`A0
+R4
+R42
+R23
+R24
+Z53 L0 446
+R8
+r1
+!s85 0
+31
+R43
+R44
+R27
+!s101 -O0
+R10
+Z54 n@f@i@n@a@l_vlg_vec_tst

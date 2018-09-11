@@ -1,0 +1,168 @@
+# do EDA1.do 
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module FINAL
+# 
+# Top level modules:
+# 	FINAL
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module FINAL_vlg_sample_tst
+# -- Compiling module FINAL_vlg_check_tst
+# -- Compiling module FINAL_vlg_vec_tst
+# 
+# Top level modules:
+# 	FINAL_vlg_vec_tst
+# vsim -L cycloneii_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -t 1ps -novopt work.FINAL2_vlg_vec_tst 
+# Loading work.FINAL2_vlg_vec_tst
+# Loading work.FINAL2
+# Loading cycloneii_ver.cycloneii_lcell_comb
+# Loading cycloneii_ver.cycloneii_io
+# Loading cycloneii_ver.cycloneii_mux21
+# Loading cycloneii_ver.cycloneii_dffe
+# Loading cycloneii_ver.cycloneii_asynch_io
+# Loading work.FINAL2_vlg_sample_tst
+# Loading work.FINAL2_vlg_check_tst
+# SDF 10.1d Compiler 2012.11 Nov  2 2012
+# 
+# Loading instances from EDA1_v.sdo
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(528): Failed to find INSTANCE '\CLK~I '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(528): Failed to find INSTANCE 'asynch_inst'.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(633): Failed to find INSTANCE '\CLK~clkctrl '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(642): Failed to find INSTANCE 'extena0_reg'.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(691): Failed to find INSTANCE '\inst1|inst10|sub|87 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(680): Failed to find INSTANCE '\inst1|inst10|sub|87~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(666): Failed to find INSTANCE '\inst1|inst10|sub|9 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(657): Failed to find INSTANCE '\inst1|inst10|sub|9~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(269): Failed to find INSTANCE '\inst1|inst6|sub|110 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(349): Failed to find INSTANCE '\inst1|inst6|sub|110~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(585): Failed to find INSTANCE '\inst1|inst6|sub|110~clkctrl '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(594): Failed to find INSTANCE 'extena0_reg'.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(321): Failed to find INSTANCE '\inst1|inst6|sub|87 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(391): Failed to find INSTANCE '\inst1|inst6|sub|87~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(335): Failed to find INSTANCE '\inst1|inst6|sub|9 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(307): Failed to find INSTANCE '\inst1|inst6|sub|99 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(378): Failed to find INSTANCE '\inst1|inst6|sub|99~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(510): Failed to find INSTANCE '\inst1|inst6|sub|9~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(103): Failed to find INSTANCE '\inst1|inst7|sub|110 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(159): Failed to find INSTANCE '\inst1|inst7|sub|110~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(131): Failed to find INSTANCE '\inst1|inst7|sub|87 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(201): Failed to find INSTANCE '\inst1|inst7|sub|87~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(145): Failed to find INSTANCE '\inst1|inst7|sub|9 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(117): Failed to find INSTANCE '\inst1|inst7|sub|99 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(188): Failed to find INSTANCE '\inst1|inst7|sub|99~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(492): Failed to find INSTANCE '\inst1|inst7|sub|9~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(174): Failed to find INSTANCE '\inst1|inst8|sub|110 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(254): Failed to find INSTANCE '\inst1|inst8|sub|110~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(537): Failed to find INSTANCE '\inst1|inst8|sub|110~clkctrl '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(546): Failed to find INSTANCE 'extena0_reg'.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(226): Failed to find INSTANCE '\inst1|inst8|sub|87 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(296): Failed to find INSTANCE '\inst1|inst8|sub|87~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(240): Failed to find INSTANCE '\inst1|inst8|sub|9 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(212): Failed to find INSTANCE '\inst1|inst8|sub|99 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(283): Failed to find INSTANCE '\inst1|inst8|sub|99~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(501): Failed to find INSTANCE '\inst1|inst8|sub|9~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(89): Failed to find INSTANCE '\inst1|inst9|sub|9 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(483): Failed to find INSTANCE '\inst1|inst9|sub|9~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(561): Failed to find INSTANCE '\inst1|inst9|sub|9~clkctrl '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(570): Failed to find INSTANCE 'extena0_reg'.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(364): Failed to find INSTANCE '\inst1|inst|sub|110 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(444): Failed to find INSTANCE '\inst1|inst|sub|110~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(609): Failed to find INSTANCE '\inst1|inst|sub|110~clkctrl '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(618): Failed to find INSTANCE 'extena0_reg'.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(416): Failed to find INSTANCE '\inst1|inst|sub|87 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(472): Failed to find INSTANCE '\inst1|inst|sub|87~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(430): Failed to find INSTANCE '\inst1|inst|sub|9 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(402): Failed to find INSTANCE '\inst1|inst|sub|99 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(459): Failed to find INSTANCE '\inst1|inst|sub|99~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(519): Failed to find INSTANCE '\inst1|inst|sub|9~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(893): Failed to find INSTANCE '\inst2|inst6~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(909): Failed to find INSTANCE '\inst2|inst7 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(823): Failed to find INSTANCE '\inst7|inst6~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(717): Failed to find INSTANCE '\inst9|inst13~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(881): Failed to find INSTANCE '\inst9|inst13~1 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(1077): Failed to find INSTANCE '\inst9|inst14~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(1155): Failed to find INSTANCE '\inst9|inst14~1 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(77): Failed to find INSTANCE '\inst9|inst19~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(1263): Failed to find INSTANCE '\inst9|inst19~1 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(1279): Failed to find INSTANCE '\inst9|inst19~2 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(1093): Failed to find INSTANCE '\inst9|inst2|6~2 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(1109): Failed to find INSTANCE '\inst9|inst2|6~3 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(1125): Failed to find INSTANCE '\inst9|inst2|6~4 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(939): Failed to find INSTANCE '\inst9|inst2|6~5 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(925): Failed to find INSTANCE '\inst9|inst3|6~0 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(987): Failed to find INSTANCE '\inst9|inst3|6~1 '.
+# 
+# ** Error: (vsim-SDF-3250) EDA1_v.sdo(1141): Failed to find INSTANCE '\inst9|inst6|2~0 '.
+# 
+# ** Error: (vsim-SDF-3894) : Errors occured in reading and resolving instances from compiled SDF file(s).
+# 
+# Loading cycloneii_ver.CYCLONEII_PRIM_DFFE
+# ** Error: (vsim-SDF-3445) Failed to parse SDF file "EDA1_v.sdo".
+#    Time: 0 ps  Iteration: 0  Instance: /FINAL2_vlg_vec_tst File: EDA1.vt
+# Error loading design
